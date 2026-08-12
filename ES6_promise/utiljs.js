@@ -1,7 +1,7 @@
 export function uploadPhoto() {
   return Promise.resolve({
     status: 200,
-    body: "photo-profile-1",
+    body: "this-is-a-different-photo",
   });
 }
 
